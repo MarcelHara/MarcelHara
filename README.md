@@ -1,1 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=MarcelHara&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+# Marcel Hara
+
+**`Game Developer Programmer`**
+
+Im a Game Developer Programmer who started as an Artist. I made the switch from creating stunning 3D Art to Programming because I wanted to take the risk and see if I could do it. All my projects are built from nothing and made on my own or with a sophisticated team of friends.
