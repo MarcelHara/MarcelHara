@@ -17,4 +17,6 @@ Im a Game Developer Programmer who started as an Artist. I made the switch from 
 
 #
 
+### Stats 📈
 
+[![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelhara&show_icons=true&theme=tokyonight)]
