@@ -2,7 +2,9 @@
 
 **`Gameplay Programmer (Game Developer)`**
 
-Im a Game Developer Programmer who started as an Artist. I made the switch from creating 3D Art to Programming because I wanted to take the risk and see if I could do it. All my projects are built from nothing and made on my own or with a sophisticated team of friends. Visit my website for more information about me click on my website!
+Hi! Im a Game Developer Programmer, All my projects are built from nothing and made on my own or with a sophisticated team of friends. Visit my website for more information.
+Please Note that Most of my projects are made using a private University Github account so my projects on here do not reflect what I have achieved, If you want to a see a full list please visit my website:
+marcelhara.co.uk
 
 ---
 <h3 align="left">Languages and Tools:</h3>
