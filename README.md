@@ -3,7 +3,9 @@
 **`Gameplay Programmer (Game Developer)`**
 
 Hi! Im a Game Developer Programmer, All my projects are built from nothing and made on my own or with a sophisticated team of friends. Visit my website for more information.
-Please Note that Most of my projects are made using a private University Github account so my projects on here do not reflect what I have achieved, If you want to a see a full list please visit my website:
+Please Note that Most of my projects are made using a private University Github account so my projects on here do not reflect what I have achieved, 
+
+If you want to a see a full list please visit my website:
 marcelhara.co.uk
 
 ---
@@ -12,7 +14,3 @@ marcelhara.co.uk
 
 
 #
-
-### Stats 📈
-
-[![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelhara&show_icons=true&theme=tokyonight)]
